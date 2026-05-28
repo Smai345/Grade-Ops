@@ -1,0 +1,12 @@
+# Ignore virtual environments
+venv/
+env/
+__pycache__/
+
+# Ignore temporary uploaded images
+temp_*
+test.jpg
+test2.jpg
+
+# Ignore API keys (we will move these to cloud variables later)
+.env
