@@ -7,6 +7,8 @@ Grade Ops is a student grading project with:
 - a Python FastAPI grading pipeline with handwriting extraction (`ml_pipeline/`)
 
 > Note: The React frontend is configured to use the Python grading backend at `VITE_API_URL`.
+>
+> website link:https://stalwart-ganache-3decb3.netlify.app/
 
 ## Repository Structure
 - `frontend/` — React application for uploading student work and showing grading results.
